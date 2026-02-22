@@ -1,5 +1,5 @@
 # 💫 About Me:
-Uh.. In Progress
+Still learning... ♾️
 
 
 ## 🌐 Socials:
