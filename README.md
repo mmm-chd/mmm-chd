@@ -13,7 +13,7 @@ Just a student developer
 ---
 
 ### Now
-- Working on my **school final project** — Project Lead
+- Working on my **school final project** — Project Lead, Project Manager
 - Learning everything. Still. Always.
 
 ---
