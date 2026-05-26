@@ -24,7 +24,7 @@ Just a student developer
 |--------|-----|------|-------|
 | Flutter · Dart | React · Next.js | Python · PostgreSQL | C# · .NET |
 | Kotlin · Android | PHP · HTML | MySQL · MongoDB | Unity |
-| Firebase | Postman | — | Figma · Git |
+| Firebase | Postman · FastAPI | SQLite | Figma · Git |
 
 ---
 
