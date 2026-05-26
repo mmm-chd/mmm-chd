@@ -30,6 +30,7 @@ Just a student developer
 
 ### GitHub stats
 
+![](https://github-readme-stats.shion.dev/api?username=mmm-chd&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
 ![Streak](https://streak-stats.demolab.com?user=mmm-chd&theme=transparent&hide_border=true)
 
 ---
