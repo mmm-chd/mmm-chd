@@ -13,7 +13,7 @@ Just a student developer
 ---
 
 ### Now
-- Working on my **school final project** — Project Lead, Project Manager, UI/UX Designer, Bussiness & System Analyst, Frontend Developer
+- Working on my **school final project** — Project Lead, UI/UX Designer, Frontend Developer
 - Learning everything. Still. Always.
 
 ---
